@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./headerv2.png)
 ===============================
 
 Web Developer / Front-End / Full-Stack
