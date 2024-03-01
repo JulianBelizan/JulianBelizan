@@ -1,4 +1,4 @@
-Hi 👋 My name is Julian Belizan
+![Header](./github-header-image.png)
 ===============================
 
 Web Developer / Front-End / Full-Stack
