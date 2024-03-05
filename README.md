@@ -9,7 +9,7 @@ Web Developer / Front-End / Full-Stack
 --------------------------------------
 </div>
 
-¡Hola GitHub! 👋 Soy un apasionado Desarrollador Full Stack Trainee con un amor profundo por la programación y la creación de soluciones creativas. Mi enfoque integral abarca tanto el frontend como el backend, y estoy ansioso por aplicar mis habilidades en un entorno colaborativo que fomente la innovación y el crecimiento.
+¡Hola👋 ! Soy un apasionado Desarrollador Full Stack Trainee con un amor profundo por la programación y la creación de soluciones creativas. Mi enfoque integral abarca tanto el frontend como el backend, y estoy ansioso por aplicar mis habilidades en un entorno colaborativo que fomente la innovación y el crecimiento.
 
 *   🌍  Soy de Argentina - Cordoba - Rio Cuarto
 *   🖥️  Puedes ver mi portfolio en [Mi Portfolio](http://portfoliojulian.netlify.app/)
